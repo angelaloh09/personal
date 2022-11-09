@@ -1,0 +1,91 @@
+@font-face{ font-family: GraphikLight; src: url('../font/GraphikLight.otf')}
+@font-face{ font-family: GraphikMedium; src: url('../font/GraphikMedium.otf')}
+@font-face{ font-family: GraphikRegular; src: url('../font/GraphikRegular.otf')}
+@font-face{ font-family: GraphikSemibold; src: url('../font/GraphikSemibold.otf')}
+@font-face{ font-family: GraphikBold; src: url('../font/GraphikBold.otf')}
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+  }
+  
+  body{
+    background:#0500FF;
+  }
+  
+  .header{
+    font-family: GraphikBold;
+    color:white;
+    font-size:35px;
+    padding-left: 1%;
+    padding-top:2%
+  }
+  
+  .nav{
+    color:white;
+    padding-top:2%;
+    padding-left:2%;
+    font-family: 'GraphikLight';
+    font-size: 20px;
+    line-height: 20px;
+  }
+  
+  .nav_reviews, .nav_reflections, .nav_work{
+    font-size:18px;
+    line-height:30px;
+  }
+  
+  a{
+    color:white;
+    text-decoration:none
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+
+.orange_header{
+    background:#FF5C00;
+    width: 220px;
+    height: 100vh;;
+    float:right;
+    font-family: GraphikBold;
+    color:white;
+    font-size:35px;
+    padding-left: 2%;
+    padding-top:2%;
+}
+
+.orange_body{
+    font-family: GraphikLight;
+    font-size:20px;
+    padding-left: 20%;
+    padding-top:2%;
+    
+}
+
+.white_header{
+    background:white;
+    width: 800px;
+    height: 100vh;;
+    float:right;
+    font-family: GraphikBold;
+    color:#FF5C00;
+    font-size:35px;
+    padding-left: 2%;
+    padding-top:2%;
+}
+
+.white_body{
+    font-family: GraphikLight;
+    color: #0500FF;
+    font-size:13px;
+    padding-top:2%;
+    padding-right:2%;
+}

@@ -1,0 +1,45 @@
+@font-face{ font-family: GraphikLight; src: url('../font/GraphikLight.otf')}
+@font-face{ font-family: GraphikMedium; src: url('../font/GraphikMedium.otf')}
+@font-face{ font-family: GraphikRegular; src: url('../font/GraphikRegular.otf')}
+@font-face{ font-family: GraphikSemibold; src: url('../font/GraphikSemibold.otf')}
+@font-face{ font-family: GraphikBold; src: url('../font/GraphikBold.otf')}
+
+.orange_header{
+    background:#FF5C00;
+    width: 220px;
+    height: 100vh;;
+    float:right;
+    font-family: GraphikBold;
+    color:white;
+    font-size:35px;
+    padding-left: 2%;
+    padding-top:2%;
+}
+
+.white_header{
+    background:white;
+    width: 1050px;
+    height: 100vh;;
+    float:right;
+    font-family: GraphikBold;
+    color:#FF5C00;
+    font-size:35px;
+    padding-left: 2%;
+    padding-top:2%;
+}
+
+.white_body{
+    font-family: GraphikLight;
+    color: #0500FF;
+    font-size:13px;
+    padding-top:2%;
+    padding-right:2%;
+}
+
+.description{
+    font-family: GraphikLight;
+    color: #0500FF;
+    font-size:10px;
+    padding-top:1%;
+    padding-right:2%;
+}
