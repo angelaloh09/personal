@@ -15,14 +15,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 .orange_div{
-  background:#FF5C00;
-  width: 400px;
+  background:#C55314;
+  width: 500px;
   height: 100vh;;
   float:right;
 }
 
 body{
-  background:#0500FF;
+  background:#03008F;
 }
 
 .header{

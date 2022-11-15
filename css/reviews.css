@@ -5,19 +5,7 @@
 @font-face{ font-family: GraphikBold; src: url('../font/GraphikBold.otf')}
 
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, fieldset, form, label, legend, caption {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    outline: 0;
-    font-size: 100%;
-    vertical-align: baseline;
-    background: transparent;
-  }
-  
-  body{
-    background:#0500FF;
-  }
+
   
   .header{
     font-family: GraphikBold;
@@ -51,14 +39,15 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   }
 
 .orange_header{
-    background:#FF5C00;
-    width: 220px;
+    background:#C55314;
+    width: 195px;
     height: 100vh;;
     float:right;
     font-family: GraphikBold;
     color:white;
     font-size:35px;
-    padding-left: 2%;
+    padding-left: 1.3%;
+    padding-right: 1.7%;
     padding-top:2%;
 }
 
@@ -72,11 +61,11 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 .white_header{
     background:white;
-    width: 800px;
+    width: 900px;
     height: 100vh;;
     float:right;
     font-family: GraphikBold;
-    color:#FF5C00;
+    color:#f05d0e;
     font-size:35px;
     padding-left: 2%;
     padding-top:2%;
@@ -84,8 +73,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 .white_body{
     font-family: GraphikLight;
-    color: #0500FF;
-    font-size:13px;
+    color: black;
+    font-size:16px;
     padding-top:2%;
     padding-right:2%;
 }

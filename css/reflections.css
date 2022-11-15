@@ -4,25 +4,13 @@
 @font-face{ font-family: GraphikSemibold; src: url('../font/GraphikSemibold.otf')}
 @font-face{ font-family: GraphikBold; src: url('../font/GraphikBold.otf')}
 
-.orange_header{
-    background:#FF5C00;
-    width: 220px;
-    height: 100vh;;
-    float:right;
-    font-family: GraphikBold;
-    color:white;
-    font-size:35px;
-    padding-left: 2%;
-    padding-top:2%;
-}
-
 .white_header{
     background:white;
-    width: 1050px;
+    width: 1120px;
     height: 100vh;;
     float:right;
     font-family: GraphikBold;
-    color:#FF5C00;
+    color:#f05d0e;
     font-size:35px;
     padding-left: 2%;
     padding-top:2%;
@@ -30,16 +18,16 @@
 
 .white_body{
     font-family: GraphikLight;
-    color: #0500FF;
-    font-size:13px;
+    color: black;
+    font-size:16px;
     padding-top:2%;
     padding-right:2%;
 }
 
 .description{
     font-family: GraphikLight;
-    color: #0500FF;
-    font-size:10px;
+    color: black;
+    font-size:12px;
     padding-top:1%;
     padding-right:2%;
 }
